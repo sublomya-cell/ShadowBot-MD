@@ -30,7 +30,7 @@
 
     "file-type": "^16.5.3",
     "formdata-node": "^4.3.2",
-    "jimp": "^0.16.13",
+    "jimp": "^1.6.1",
 
     "cheerio": "^1.0.0",
     "cloudscraper": "^4.6.0",
